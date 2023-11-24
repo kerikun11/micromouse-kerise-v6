@@ -1,4 +1,4 @@
-(pcb /home/kerikun11/Dropbox/Projects/MicroMouse/KERISE/KERISEv6-kicad/kicad/freerouting.dsn
+(pcb "/home/kerikun11/Dropbox/Projects/MicroMouse/KERISE/KERISEv6-kicad/kicad/temp-freerouting.dsn"
   (parser
     (string_quote ")
     (space_in_quoted_tokens on)

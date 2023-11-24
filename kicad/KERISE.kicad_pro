@@ -698,11 +698,15 @@
       },
       {
         "netclass": "Flash_Power",
-        "pattern": "/Flash/(GND|VBUS)"
+        "pattern": "/Flash/GND"
       },
       {
         "netclass": "Flash_Power",
         "pattern": "/Flash/BAT*"
+      },
+      {
+        "netclass": "Flash_Power",
+        "pattern": "/Flash/VBUS*"
       }
     ]
   },
